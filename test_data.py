@@ -1,0 +1,10 @@
+import pandas as pd
+data = pd.read_csv("spam.csv", encoding='latin1')
+print(data.head())
+print(data.columns)
+print(data.shape)
+print(data['v1'].head())
+print("----")
+print(data['v2'].head())
+labels= data['v1'].map({'spam': 1, 'ham': 0})
+print(labels.head())
