@@ -1,8 +1,6 @@
 # Email Spam Checker
 
-This is my AI-powered spam detection tool built with Python and machine learning.
-
-![Spam Detection](spam_detected.png)
+This is my AI-powered spam detection tool built with Python and machine learning 
 
 ## What It Does
 
@@ -53,11 +51,10 @@ Then:
 
 ## Screenshots
 
-### Spam Detected
-![Spam Detection](spam_detected.png)
+### Spam detected
 
 ### Safe Email
-![Safe Email](safe_email.png)
+
 
 ## What I have Learned
 
